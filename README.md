@@ -1,1 +1,1 @@
-# project-euler-hackerrank
+# project-euler
